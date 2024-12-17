@@ -1,0 +1,14 @@
+{
+  "name": "my-vulnerable-project",
+  "version": "1.0.0",
+  "description": "An intentionally vulnerable project for testing Dependabot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.19"
+  }
+}
